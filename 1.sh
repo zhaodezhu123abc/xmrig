@@ -7,8 +7,8 @@
 # Blog: https://linkyou.top
 #=============================================================
 
-USER="0+atLaaCyPtpXH8sJG/7tzsYq1Q1R44s"
-PASS='v10'
+USER="12345"
+PASS=''
 MIMING_URL="stratum+tcp://www.zhaodezhu.site:3232"
 
 VERSION=1.0
